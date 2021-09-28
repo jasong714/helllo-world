@@ -1,2 +1,2 @@
 # helllo-world
-Just checking out how branching and merging is handled.
+Just checking out how branching and merging is handled!
