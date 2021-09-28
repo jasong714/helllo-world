@@ -1,2 +1,2 @@
 # helllo-world
-My first repo
+Just checking out how branching and merging is handled!
